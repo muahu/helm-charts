@@ -1,0 +1,8 @@
+app:
+  name: sample-spring-boot-api
+  environment: test
+  owner: helm-unittest
+
+image:
+  repository: piomin/sample-test
+  tag: "1.1"
